@@ -1,0 +1,19 @@
+.col{
+    background-color: aquamarine;
+    border: 1px solid whitesmoke;
+    height: 90px;
+}
+
+.col-lg{
+    background-color: rgb(219, 211, 221);
+    border: 1px solid whitesmoke;
+    height: 90px;
+}
+
+.col-md-6, .col-md-8, .col-md-3{
+    background-color: aquamarine;
+    border: 1px solid whitesmoke;
+    height: 90px;
+}
+
+
